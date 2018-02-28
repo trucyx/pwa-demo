@@ -1,0 +1,12 @@
+{
+  "name": "magic-zoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sw.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
